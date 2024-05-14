@@ -90,7 +90,7 @@ Obwohl der performative Fokus beim Podcast vor allem auf der mündlichen Sprache
 * Recherche und Informationsbeschaffung: Themenfindung, Festlegung der Zielgruppe
 * Ressourcencheck (Zeitplanung, benötigtes Equipment usw.)
 
-**Wahl der Form:**
+**Wahl der Form**
 
 || **a) Gebaute Beiträge:** | **b) Gesprächsbeiträge (z.B. Meinungsgespräch):** | **c) Interviewbeiträge:** |
 |--|-------|-----------|---------|
@@ -108,7 +108,7 @@ Obwohl der performative Fokus beim Podcast vor allem auf der mündlichen Sprache
 * Begleittexte finalisieren: Teaser, Shownotes, Konzept, Quellenverzeichnis
 * (Design und Publikation)
 
-#### Disclaimer
+### Disclaimer
 
 Der Podcast ist eine eigene Form. Er ist kein aufgenommenes Referat und er ist keine eingelesene Hausarbeit.
 
@@ -118,7 +118,7 @@ Bewertet wird am Ende der Podcast als Produkt Eurer Gruppenarbeit.
 
 Bei Unsicherheiten wendet Euch bitte an uns (Sprechstunde)
 
-#### Formale Vorgaben
+### Formale Vorgaben
 
 - Der fertige Podcast soll sich an einer Länge von 20-30 Minuten orientieren
 - Er muss als eine zusammenhängende Audiodatei im .mp3-Format eingereicht werden (Cloudordner)
@@ -129,15 +129,15 @@ Bei Unsicherheiten wendet Euch bitte an uns (Sprechstunde)
 - Abgabe der finalen Fassung bis 18.06.2024 (Beginn der Projektphase)
 - Es besteht die Möglichkeit der Online-Publikation im Lernmaterial
 
-#### Inhaltliche Vorgaben
+### Inhaltliche Vorgaben
 
 - Der Podcast muss ein philosophisches Thema bearbeiten und sich erkennbar auf akademische Literatur stützen
 - Er soll ideengeschichtlich auf das Seminar Bezug nehmen
 - Adressat:innenkreis ist das Seminar
 
-#### Bewertungskriterien
+### Bewertungskriterien
 
-##### allgemein
+#### allgemein
 
 - Inhalt und Form sind so gewählt und gestaltet, dass sie einander gerecht werden. Sie bilden ein performatives Ganzes. Insbesondere muss das philosophische Thema auf eine der Form des Podcasts angemessenen Weise ausgewählt und bearbeitet werden
 - Das Konzept des Podcast wird nicht im Podcast erklärt, sondern zeigt sich performativ
@@ -149,7 +149,7 @@ Bei Unsicherheiten wendet Euch bitte an uns (Sprechstunde)
 - Die Zielgruppenorientierung ist erkennbar
 - Inhaltlich korrektes sowie den wissenschaftlichen Anspruch erfüllendes Begleitmedium (korrekte Rechtschreibung, angemessener Stil und souveräner Umgang mit Zitation)
 
-##### Bewertungsmaßstäbe zur Orientierung
+#### Bewertungsmaßstäbe zur Orientierung
 
 **Inhaltliche Ebene**
 
