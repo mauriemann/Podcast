@@ -85,7 +85,7 @@ Obwohl der performative Fokus beim Podcast vor allem auf der mündlichen Sprache
 
 ### Notwendige Schritte beim Erstellen eines Podcast
 
-#### Anfangen
+**Anfangen**
 
 * Recherche und Informationsbeschaffung: Themenfindung, Festlegung der Zielgruppe
 * Ressourcencheck (Zeitplanung, benötigtes Equipment usw.)
@@ -99,9 +99,7 @@ Obwohl der performative Fokus beim Podcast vor allem auf der mündlichen Sprache
 |4.|--------|-------| Niederschrift eines groben Skripts, das die Dramaturgie erkennen lässt |
 
 
-
-
-#### Finalisieren
+**Finalisieren**
 
 * Feedback zum bisher Erarbeiteten einholen (Redaktion)
 * Aufnahme
