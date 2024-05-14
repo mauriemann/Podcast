@@ -191,9 +191,9 @@ Bei Unsicherheiten wendet Euch bitte an uns (Sprechstunde)
 - Präzision
 - Einheitlicher Quellennachweis
 
-#### 4\. Literatur- und Podcastempfehlungen
+#### 4. Literatur- und Podcastempfehlungen
 
-### 4\.1 Literaturempfehlungen
+### 4.1 Literaturempfehlungen
 
 Hammerschmidt, Doris (2022): Das Podcast-Buch. Strategie, Technik, Tipps mit Fokus auf Corporate-Podcasts von Unternehmen & Organisationen. 2. Auflage. Freiburg im Breisgau: Haufe-Lexware.
 
@@ -211,7 +211,7 @@ Vassilian, Larissa (2019): Podcasting! Von erfahrenen Podcastern lernen. Bonn: R
 
 Wiesing, Lambert (2008): Was ist Medienphilosophie? Information Philosophie. Heft 3, S. 30-39.
 
-### 4\.2 Podcastempfehlungen
+### 4.2 Podcastempfehlungen
 
 BBC: In Our Time with Melvyn Bragg, [__https://www.bbc.co.uk/programmes/p01f0vzr__](https://www.bbc.co.uk/programmes/p01f0vzr)
 
