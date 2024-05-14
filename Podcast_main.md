@@ -1,10 +1,10 @@
 # Hinweise zum Erstellen eines Podcasts als Prüfungsleistung
 
-## Grundformen und besonderheiten philosophischer Podcasts
+## Grundformen und Besonderheiten philosophischer Podcasts
 
 Um die Wege nachzuzeichnen, die bei der Erstellung philosophisch akademischer Podcasts beschritten werden können, kann das breite Feld der Podcast-Landschaft zunächst auf formaler Ebene eingegrenzt und unterschieden werden. Professionell produzierte und zur Veröffentlichung bestimmte Podcasts lassen sich zunächst in zwei Grundformen von Rundfunkbeiträgen unterscheiden: Gesprächsbeiträge und gebaute Beiträge. Diese formale Unterscheidung zielt primär auf die Ebene der Produktionsbedingungen und -methoden. In Gesprächsbeiträgen – der wohl am häufigsten vertretenen Form – gibt es meist eine:n Moderator:in und eine:n Gast:in oder Gäste, die ein Gespräch führen. In aller Regel konzentriert sich dieses Gespräch auf ein einziges Thema, das diskutiert oder erörtert wird.
 
-Gegenüber den Gesprächsbeiträgen stehen sogenannte gebaute Beiträge, welche die Standardeinheit des Hörfunks bilden. Diese Grundform bietet sich für eine breite Palette von Podcast-Produktionen an. Bei gebauten Beiträgen findet in der Herstellung eine ähnliche Mosaikarbeit statt, wie sie auch bei Gesprächsbeiträgen nötig ist. Der wesentliche Unterschied liegt darin, dass nicht die Aufnahme eines Gesprächs die Grundlage bildet, sondern eine Art Drehbuch, in dem alle Elemente, die sich für die Audio-Form anbieten und den Produzent:innen zur Verfügung stehen, verwendet werden können. Potenziell unterschiedlichste Inhalte werden bei der Herstellung gebauter Beiträge zu einem neuen, kohärenten Ganzen. Alle Teile und ihre Zusammenfügung dienen hier dem Ziel, eine – im weiten Sinne des Begriffs – Geschichte zu erzählen und Gedankengänge systematisch zu entfalten  
+Gegenüber den Gesprächsbeiträgen stehen sogenannte gebaute Beiträge, welche die Standardeinheit des Hörfunks bilden. Diese Grundform bietet sich für eine breite Palette von Podcast-Produktionen an. Bei gebauten Beiträgen findet in der Herstellung eine ähnliche Mosaikarbeit statt, wie sie auch bei Gesprächsbeiträgen nötig ist. Der wesentliche Unterschied liegt darin, dass nicht die Aufnahme eines Gesprächs die Grundlage bildet, sondern eine Art Drehbuch, in dem alle Elemente, die sich für die Audio-Form anbieten und den Produzent:innen zur Verfügung stehen, verwendet werden können. Potenziell unterschiedlichste Inhalte werden bei der Herstellung gebauter Beiträge zu einem neuen, kohärenten Ganzen. Alle Teile und ihre Zusammenfügung dienen hier dem Ziel, eine – im weiten Sinne des Begriffs – Geschichte zu erzählen und Gedankengänge systematisch zu entfalten
 
 Die Beispiele für gebaute Beiträge sind mannigfaltig: Reportagen, Rezensionen, Kommentare, Features oder Hörspiele gehören dazu. Bei gebauten Beiträgen sind der Fantasie und den Gestaltungsmöglichkeiten kaum Grenzen gesetzt. Mögliche Elemente, die ihren Weg in das fertige Produkt finden können, sind unter anderem eingesprochene, auch schauspielerisch dargebotene Texte, Musik, Soundeffekte, Interviewausschnitte (sog. O-Töne), Atmosphärengeräusche oder auch Snippets aus anderen Medieninhalten, etwa Nachrichtensendungen oder Filmen.
 
@@ -16,13 +16,13 @@ Diese Anforderung ernst nehmend sind nichtsdestotrotz unterschiedlichste Gestalt
 
 ### Referatspodcast
 
-In die Gruppe der ideengeschichtlichen Podcasts würden auch nicht wenige studentische Referate fallen. In der Universität gibt es durchaus Referatsformen, die diesem Format sehr ähneln. 
+In die Gruppe der ideengeschichtlichen Podcasts würden auch nicht wenige studentische Referate fallen. In der Universität gibt es durchaus Referatsformen, die diesem Format sehr ähneln.
 
 Das Format Podcast als Substitut für das herkömmliche Format von Referaten in die Lehre zu integrieren, kann besonders gut gelingen, wenn das vorgegebene Thema des Podcasts etwa Zusatztexte sind, die in der Seminarplanung trotz ihrer Eignung vorerst nicht berücksichtigt werden konnten. Auch Exkurse oder Sidenotes, für welche die eigentlichen Seminarinhalte relevant sind und die wiederum das Seminar durch zusätzliche Perspektiven bereichern, können für die Prüflinge und das Seminar lohnenswerte Wege darstellen.
 
 ### Interview
 
-Neben ideengeschichtlichen Podcasts sind außerdem Expert:innengespräche bzw. Interviews relevante Formate, bei denen die Wissensvermittlung häufig im Mittelpunkt steht. Hier gibt es einige erfolgreiche, serielle Produktionen wie etwa „In Our Time: Philosophy“ mit Melvyn Bragg oder der Ethik-Podcast „Hinterfragt“ von Andreas Cassee und Anna Goppel an der Uni Basel. Das aufgezeichnete Gespräch ist bei dieser Form in aller Regel nicht gescripted – Interviewfragen selbstverständlich ausgenommen. Expert:innengespräche bieten viele Gestaltungsmöglichkeiten. Das Gespräch steht im Mittelpunkt, aber ob und wie es eingeleitet wird, wieviel und was man schneidet und welchen Charakter das Gespräch überhaupt hat, muss von den Produzent:innen bewusst entschieden werden. Der Aspekt der Planung ist bei dieser Form nicht zu unterschätzen. Die Produzent:innen bestimmen das Gespräch mit der Vorbereitung der Fragen und der Moderation in einem erheblichen Maße. 
+Neben ideengeschichtlichen Podcasts sind außerdem Expert:innengespräche bzw. Interviews relevante Formate, bei denen die Wissensvermittlung häufig im Mittelpunkt steht. Hier gibt es einige erfolgreiche, serielle Produktionen wie etwa „In Our Time: Philosophy“ mit Melvyn Bragg oder der Ethik-Podcast „Hinterfragt“ von Andreas Cassee und Anna Goppel an der Uni Basel. Das aufgezeichnete Gespräch ist bei dieser Form in aller Regel nicht gescripted – Interviewfragen selbstverständlich ausgenommen. Expert:innengespräche bieten viele Gestaltungsmöglichkeiten. Das Gespräch steht im Mittelpunkt, aber ob und wie es eingeleitet wird, wieviel und was man schneidet und welchen Charakter das Gespräch überhaupt hat, muss von den Produzent:innen bewusst entschieden werden. Der Aspekt der Planung ist bei dieser Form nicht zu unterschätzen. Die Produzent:innen bestimmen das Gespräch mit der Vorbereitung der Fragen und der Moderation in einem erheblichen Maße.
 
 Das Editing nach der Aufzeichnung ist bei Interviews auf keinen Fall zu vergessen. Die Produzent:innen bemühen sich um ein straffes Gespräch, in dessen Fluss die Dramaturgie gut zum Vorschein kommt. Expert:innengespräche als Podcast würden sich in dieser Hinsicht durchaus auch als Prüfungsleistung im Fach Philosophie anbieten, auch wenn natürlich hiermit eine Form gewählt wäre, bei der der Großteil des gesprochenen Wortes *nicht* vom Prüfling beigesteuert wird.
 
@@ -40,7 +40,7 @@ Betrachtet man die Form des Podcasts im Hinblick auf die Eignung als Prüfungsle
 
 ## Studentische Projektarbeit und Prüfungsleistung
 
-### Themenwahl 
+### Themenwahl
 
 Unabhängig davon, ob man sich für ein Gesprächs- oder einen gebauten Beitrag entscheidet, muss zunächst das Thema sowie die Zielgruppe festgelegt werden, wobei die Zielgruppe i.d.R. durch das Seminar bereits vorbestimmt ist. Wie auch bei schriftlichen Projekten ist die Themenfindung kein leichtes Unterfangen. Grundsätzlich sollte darauf geachtet werden, dass man sich am Seminarkontext sowie an den eigenen Interessen orientiert. Besonders beim Podcast spielt die Authentizität eine große Rolle, da sich diese auf die Sprechweise und den Gesprächsfluss negativ auswirken kann. Wird beispielsweise ein Thema gewählt, mit dem man kaum bis wenig vertraut ist, wird man eher auf ein striktes Skript angewiesen sein, das möglicherweise eine für die sprechende Person unübliche und fernstehende Sprache aufweist.
 
@@ -48,10 +48,8 @@ Während es bei einem gebauten Beitrag bei der Themenauswahl gilt, den vorgegebe
 
 Nachdem das Thema und die Form bestimmt wurden, kann die Materialsammlung erfolgen, d.h. Literaturen, die als Referenzquelle dienen können, O-Töne, Soundeffekte usw. Zunächst ist es sinnvoll, eine grobe Planungsskizze anzufertigen, bei der die einzelnen Elemente sowie die Argumentationsstruktur in ihren Grundzügen bereits implementiert sind. Im nächsten Schritt wird diese in ausführlichen und konkreten Sätzen ausformuliert. Der erste Entwurf, der daraus entsteht, sollte in einem weiteren Schritt nochmals detailliert überarbeitet werden. Dabei werden einzelne Passagen einer kritischen Überprüfung durchzogen und nach möglichen und bekannten Bewertungskriterien untersucht bzw. an diese angepasst werden.
 
-
 ### Sprache und Sprachorganisation
 
-  
 Überhaupt treten das Sprechen und das sprechende Philosophieren in der studentischen Herstellung von Podcasts besonders in den Vordergrund. Sowohl die Sprachorganisation als auch der Sprechakt als solcher sind gleich bedeutsam. Die Form des Podcasts erfordert, dass die Autor:innen ihren Text exakt für die Audioform konzipieren.
 
 Wie zuvor erwähnt, stellt ein Podcast im Seminarrahmen gewissermaßen die Rückübersetzung ins Mündliche dar, indem der Text geschrieben wird, um gesprochen zu werden.
@@ -61,19 +59,19 @@ Bei Gesprächsbeiträgen gilt es für die Sprachorganisation demnach zu beachten
 Bei Interviews sollten, wie bereits angedeutet, die Fragen wohl überlegt werden. Ob geschlossene oder offene Fragen gestellt werden, hängt hingegen ganz von dem gewünschten Ergebnis der Antworten ab – dieses orientiert sich ganz klar an der Form des Podcasts.
 
 Eine Ausformulierung der Fragen wie auch der Antworten sollte allerdings vor der Aufnahme unbedingt erfolgen, doch im Gespräch selbst ist es ratsam, auf eine exakte Einhaltung der Formulierung zu verzichten, um die Eigendynamik des entstandenen Gesprächs nicht zu zerstören. Ein Gespräch lebt von einer regen und lebhaften Atmosphäre, die sich meist ganz von allein ergibt und nicht gänzlich künstlich erzeugt werden kann. Allerdings gibt es Mittel, um solch eine Atmosphäre anzustoßen. Beispielsweise kann es ratsam sein, ein lockeres Alltagsgespräch vor der eigentlichen Aufnahme zu beginnen, um dann fließend in das eigentliche Interview überzuleiten. Eine derartige Kommunikationsfähigkeit, sich also authentisch einem Gespräch hinzugeben, dabei den Fokus der geplanten Dramaturgie allerdings nicht aus den Augen zu verlieren, gehört zu den Fähigkeiten und Fertigkeiten einer/eines jeden guten Moderator:in.
-  
+
 Bei gebauten Beiträgen darf alles und nur so viel gesagt werden, wie es die Form und der Plot verlangen und das Gesagte muss so platziert werden, dass aus ihm eine kohärente Erzählung entspringt, folgend der dreigliedrigen Struktur einer Einleitung, eines Hauptteils sowie eines Schlusses. Hier wird der symbiotische Charakter von Inhalt und Form besonders deutlich. Doch sollte der Rahmen, der inhaltlich durch das Seminargeschehen gesetzt wird, bei aller Kreativität nicht überstiegen werden.  
-Die Sprachorganisation erschöpft sich bei gebauten Beiträgen allerdings nicht allein aus dem Gesagten der Sprachakteure. Durch die Technik eröffnen sich hier eine Reihe von Möglichkeiten, sprachliche und nicht sprachlichen Elemente, etwa Interviewausschnitten (O-Töne), Ausschnitte aus anderen Medieninhalten (Nachrichten, diversen TV-Shows etc.), Musik, Atmosphärengeräusche (Meeresrauschen, Vogelzwitschern, Windgeräusche uvm.) oder sonstige Soundeffekte, in großer Mannigfaltigkeit einzusetzen. Die Anfertigung eines ausführlichen Skripts ist hierbei von zentraler Bedeutung. 
+Die Sprachorganisation erschöpft sich bei gebauten Beiträgen allerdings nicht allein aus dem Gesagten der Sprachakteure. Durch die Technik eröffnen sich hier eine Reihe von Möglichkeiten, sprachliche und nicht sprachlichen Elemente, etwa Interviewausschnitten (O-Töne), Ausschnitte aus anderen Medieninhalten (Nachrichten, diversen TV-Shows etc.), Musik, Atmosphärengeräusche (Meeresrauschen, Vogelzwitschern, Windgeräusche uvm.) oder sonstige Soundeffekte, in großer Mannigfaltigkeit einzusetzen. Die Anfertigung eines ausführlichen Skripts ist hierbei von zentraler Bedeutung.
 
 Ebenfalls – zumindest in Teilen – an der Form orientierend erfolgt der eigentliche Sprechakt. Nachdem die Sprachelemente als Konstitutive festgelegt und organisiert wurden, stellt sich die Frage: Wie sprechen?
 
-Sowohl für Gesprächsbeiträge als auch für jene, die man als gebaut bezeichnen kann, gilt  im Allgemeinen, dass man den Skripttext und ggf. die Interviewfragen vor der eigentlichen Aufnahme mehrfach übt. Dabei erweist es sich meistens als lohnenswert, den Text laut vorzulesen und zu versuchen, vom eigentlichen Text im strengen Sinne abzukommen. Der Text sollte weniger gelesen als gesprochen werden. Dies gelingt besonders dann, wenn die Sprache einerseits nah am eigentlichen Sprechen ist – garantiert eher die Authentizität – und diese andererseits bildhaft und vereinfacht ist, wobei vereinfachte Sprache hier keinesfalls als von inhaltlicher Reduktion gekennzeichnete Sprache meint. Ebenfalls ratsam ist es, sich kleine Betonungszeichen im Text aufzuzeichnen, die Sprechpausen, besondere Betonungen o. Ä. markieren. Pausen beim Sprechen sind hierbei ein gutes Stichwort, die nicht nur wertvoll für das Gespräch sind, da sie für die Sprechenden eine kleine Denkpause erlauben, sie tut dies auch für die Zuhörenden. Es gibt eine Reihe von Indikatoren, die auf eine (mögliche) Notwendigkeit hinweisen. Besonders empfehlenswert Pausen einzusetzen, kann es etwa an inhaltlich komplexen Stellen sein, an Stellen, die emotional ergreifend sein können oder als Stilelement für sich, das eine bestimmte gewünschte Stimmung erzeugen soll. 
+Sowohl für Gesprächsbeiträge als auch für jene, die man als gebaut bezeichnen kann, gilt  im Allgemeinen, dass man den Skripttext und ggf. die Interviewfragen vor der eigentlichen Aufnahme mehrfach übt. Dabei erweist es sich meistens als lohnenswert, den Text laut vorzulesen und zu versuchen, vom eigentlichen Text im strengen Sinne abzukommen. Der Text sollte weniger gelesen als gesprochen werden. Dies gelingt besonders dann, wenn die Sprache einerseits nah am eigentlichen Sprechen ist – garantiert eher die Authentizität – und diese andererseits bildhaft und vereinfacht ist, wobei vereinfachte Sprache hier keinesfalls als von inhaltlicher Reduktion gekennzeichnete Sprache meint. Ebenfalls ratsam ist es, sich kleine Betonungszeichen im Text aufzuzeichnen, die Sprechpausen, besondere Betonungen o. Ä. markieren. Pausen beim Sprechen sind hierbei ein gutes Stichwort, die nicht nur wertvoll für das Gespräch sind, da sie für die Sprechenden eine kleine Denkpause erlauben, sie tut dies auch für die Zuhörenden. Es gibt eine Reihe von Indikatoren, die auf eine (mögliche) Notwendigkeit hinweisen. Besonders empfehlenswert Pausen einzusetzen, kann es etwa an inhaltlich komplexen Stellen sein, an Stellen, die emotional ergreifend sein können oder als Stilelement für sich, das eine bestimmte gewünschte Stimmung erzeugen soll.
 
-###   Einsatz von Hard- und Software
+### Einsatz von Hard- und Software
 
-Auf die richtige Verwendung der Hard- und Software kommt es in großen Teilen also entschieden an. Es ist weniger von Bedeutung, teures und professionelles Equipment zu nutzen, als es richtig einzusetzen. Bei aufmerksamer Verwendung lässt sich auch mit einem gängigen Smartphone ein gutes Aufnahmeergebnis erzielen. 
+Auf die richtige Verwendung der Hard- und Software kommt es in großen Teilen also entschieden an. Es ist weniger von Bedeutung, teures und professionelles Equipment zu nutzen, als es richtig einzusetzen. Bei aufmerksamer Verwendung lässt sich auch mit einem gängigen Smartphone ein gutes Aufnahmeergebnis erzielen.
 
-Aufnahmegeräte jeglicher Art sind stark empfindlich gegenüber Geräuschkulissen der Umgebung. Für die Aufnahme sollte deshalb ein möglichst ruhiger Ort gewählt werden, bei dem die Schallkulisse gedämpft ist. Leerstehende Räume mit kahlen Wänden und vielen Fenstern eignen sich demnach nicht, da sie Schall reflektieren. Kleine und bedeckte Räume dagegen sehr. Auch ist die richtige Platzierung des Mikrofons bzw. des Aufnahmegeräts relevant. Es sollte darauf geachtet werden, das entsprechende Aufnahmegerät nicht an einem Ort zu platzieren, an dem das Gerät durch Berührungen Störgeräusche aufnimmt, wie z.B. ein wackelnder Tisch. Die stehende ist der sitzenden Sprechposition vorzuziehen. Das Mikrofon bzw. das Smartphone sollte demnach entsprechend einen festen Platz auf der gleichen Höhe finden, wobei ein Mindestabstand von mehreren Zentimetern (ca. 30cm) zum Sprecher bzw. zur Sprecherin gewahrt werden sollte. Als Hilfeleistung für die Qualität der Tonsequenz eignet sich die Pegelanzeige, welche beispielsweise in den meisten Smartphones eingebaut ist, aber auch durch zahlreichen Aufnahmeapps (z.B. Mono, Audio-Recorder – WAV, M4A usw.) verfügbar gemacht werden kann. Während sich zu leise eingesprochene Tonsequenzen gut in der Postproduktion höher regeln lassen, lassen sich Aufnahmen, bei denen der Pegel übersteuert ist, nicht mehr korrigieren. Diese Aufnahmen müssen neu aufgenommen werden, so dass die Pegelanzeige im mittleren Bereich liegt. 
+Aufnahmegeräte jeglicher Art sind stark empfindlich gegenüber Geräuschkulissen der Umgebung. Für die Aufnahme sollte deshalb ein möglichst ruhiger Ort gewählt werden, bei dem die Schallkulisse gedämpft ist. Leerstehende Räume mit kahlen Wänden und vielen Fenstern eignen sich demnach nicht, da sie Schall reflektieren. Kleine und bedeckte Räume dagegen sehr. Auch ist die richtige Platzierung des Mikrofons bzw. des Aufnahmegeräts relevant. Es sollte darauf geachtet werden, das entsprechende Aufnahmegerät nicht an einem Ort zu platzieren, an dem das Gerät durch Berührungen Störgeräusche aufnimmt, wie z.B. ein wackelnder Tisch. Die stehende ist der sitzenden Sprechposition vorzuziehen. Das Mikrofon bzw. das Smartphone sollte demnach entsprechend einen festen Platz auf der gleichen Höhe finden, wobei ein Mindestabstand von mehreren Zentimetern (ca. 30cm) zum Sprecher bzw. zur Sprecherin gewahrt werden sollte. Als Hilfeleistung für die Qualität der Tonsequenz eignet sich die Pegelanzeige, welche beispielsweise in den meisten Smartphones eingebaut ist, aber auch durch zahlreichen Aufnahmeapps (z.B. Mono, Audio-Recorder – WAV, M4A usw.) verfügbar gemacht werden kann. Während sich zu leise eingesprochene Tonsequenzen gut in der Postproduktion höher regeln lassen, lassen sich Aufnahmen, bei denen der Pegel übersteuert ist, nicht mehr korrigieren. Diese Aufnahmen müssen neu aufgenommen werden, so dass die Pegelanzeige im mittleren Bereich liegt.
 
 Sofern die Aufnahme geglückt ist, geht es im nächsten Schritt darum, der Aufnahme mittels des Audioschnitts den Feinschliff zu verpassen. Ein recht leicht umgängliches und kostenloses Programm dafür ist [*Audacity*](https://www.audacityteam.org/), welches auf der gleichnamigen Homepage ein Tutorial für die richtige Bedienung zur Verfügung stellt. Zudem finden sich die wichtigsten Verwendungshinweise auch bei Tilman Rau, dessen praktisches Einführungswerk im Literaturverzeichnis angeführt ist. Der Aufbau von Audacity ist überschaubar, da es die Grundfunktionen mit den entsprechenden Tools anbietet; Eine Transport- sowie Werkzeugleiste für das Abspielen der Tonsequenz, verschiedene Auswahlwerkzeuge, etwa für die Bereichsmarkierung. Das Spurenmenü erhält dabei Informationen zur ausgewählten Tonsequenz und diverse Möglichkeiten der Einstellung. Obwohl Audacity zahlreiche weitere Funktionen bietet, wird im Wesentlichen damit hauptsächlich der relevante Audioschnitt getätigt. Das Programm und alle seine Funktionen durchdringt man nicht vor dem ersten eigenen Probieren, sodass hier getrost das Motto *learning by doing* gelten darf.
 
@@ -81,7 +79,7 @@ Bei Gesprächsbeiträgen, d.h. Meinungsgesprächen oder Interviews, wird überwi
 
 Bei gebauten Beiträgen verhält es sich etwas anders. Diese müssen aufwendig im wahrsten Sinne des Wortes gebaut werden. Nach der aufwendigen Vorarbeit der Skripterstellung und des Einsprechens, geht es an dieser Stelle darum, den Beitrag, kreativ zu gestalten. Ein großer Teil der Produktion des Beitrags erfolgt an dieser Stelle. Es werden einzelne Tonsequenzen gekürzt, aufeinander abgestimmt, in ihrer Tonqualität korrigiert, mit weiteren Sound- oder O-Tönen versehen und miteinander kombiniert.
 
-###   Begleitmedien
+### Begleitmedien
 
 Obwohl der performative Fokus beim Podcast vor allem auf der mündlichen Sprache liegt, kommt dieser nicht ohne schriftliche Begleitmedien aus. Diese Notwendigkeit ergibt sich bereits aus dem wissenschaftlichen Anspruch einer akademischen Prüfungsleistung. Mindestens der Quellennachweis, das Titelblatt und die Eigenständigkeitserklärung werden im Rahmen der FPO als schriftliche Belege eingefordert. Zudem haben auch die meisten publizierten Podcasts eine inhaltliche Zusammenfassung und Shownotes. Gerade Shownotes geben den Studierenden dabei die Möglichkeit, ihren Beitrag in einer thematischen Debatte zu verorten und ihren Hörer:innen Anregungen zur Vertiefung zu bieten.
 
@@ -91,28 +89,17 @@ Obwohl der performative Fokus beim Podcast vor allem auf der mündlichen Sprache
 
 * Recherche und Informationsbeschaffung: Themenfindung, Festlegung der Zielgruppe
 * Ressourcencheck (Zeitplanung, benötigtes Equipment usw.)
-* Wahl der Form:    
-                          
-#### a) Gebaute Beiträge: 
+* Wahl der Form:
 
-
-1. Material auswählen 
-2. Erstes Skript schreiben  
-3. Material und Skript zu Beitrag zusammenbauen (iterativer Prozess)
-
-
-#### b) Gesprächsbeiträge (z.B. Meinungsgespräch):
-
-1. Bewusstmachung und Sammlung unterschiedlicher Positionen
-2. Provisorisches Skript schreiben
+|| **a) Gebaute Beiträge:** | **b) Gesprächsbeiträge (z.B. Meinungsgespräch):** | **c) Interviewbeiträge:** |
+|--|-------|-----------|---------|
+|1.| Material auswählen | Bewusstmachung und Sammlung unterschiedlicher Positionen | Niederschrift des Expert:innenthemas |
+|2.| Erstes Skript schreiben | Provisorisches Skript schreiben | Auswahl der zu befragenden Personen |
+|3.|--------| Material und Skript zu Beitrag zusammenbauen (iterativer Prozess) | Entwicklung des Fragenkataloges |
+|4.|--------|-------| Niederschrift eines groben Skripts, das die Dramaturgie erkennen lässt |
 
 
 
-#### c) Interviewbeiträge:
-1. Niederschrift des  Expert:innenthemas
-2. Auswahl der zu befragenden  Personen
-3. Entwicklung des Fragenkataloges
-4. Niederschrift eines groben Skripts, das die Dramaturgie erkennen lässt
 
 #### Finalisieren
 
@@ -121,8 +108,6 @@ Obwohl der performative Fokus beim Podcast vor allem auf der mündlichen Sprache
 * Beitrag schneiden, pegeln, produzieren
 * Begleittexte finalisieren: Teaser, Shownotes, Konzept, Quellenverzeichnis
 * (Design und Publikation)
- 
-
 
 #### **Disclaimer:**
 
@@ -181,7 +166,7 @@ Bei Unsicherheiten wendet Euch bitte an uns (Sprechstunde)
 
 - Einbindung Ton/Sounds
 - Ausgewogene Lautstärke der Sprecher:innen
-- Störgeräusche?	
+- Störgeräusche?
 - Schnitt und Pegel, Postproduktion
 - Umsetzung von Einspielern
 
@@ -194,7 +179,7 @@ Bei Unsicherheiten wendet Euch bitte an uns (Sprechstunde)
 
 **Form und Dramaturgie**
 
-- Zeitmanagement 
+- Zeitmanagement
 - Nutzung von Einspielern?
 - Nutzung von Ton/Sounds
 - Kreativität und Eigenständigkeit
@@ -208,12 +193,9 @@ Bei Unsicherheiten wendet Euch bitte an uns (Sprechstunde)
 - Präzision
 - Einheitlicher Quellennachweis
 
+#### 4\. Literatur- und Podcastempfehlungen
 
-
-
-#### 4. Literatur- und Podcastempfehlungen
-
-### 4.1 Literaturempfehlungen
+### 4\.1 Literaturempfehlungen
 
 Hammerschmidt, Doris (2022): Das Podcast-Buch. Strategie, Technik, Tipps mit Fokus auf Corporate-Podcasts von Unternehmen & Organisationen. 2. Auflage. Freiburg im Breisgau: Haufe-Lexware.
 
@@ -231,7 +213,7 @@ Vassilian, Larissa (2019): Podcasting! Von erfahrenen Podcastern lernen. Bonn: R
 
 Wiesing, Lambert (2008): Was ist Medienphilosophie? Information Philosophie. Heft 3, S. 30-39.
 
-### 4.2 Podcastempfehlungen 
+### 4\.2 Podcastempfehlungen
 
 BBC: In Our Time with Melvyn Bragg, [__https://www.bbc.co.uk/programmes/p01f0vzr__](https://www.bbc.co.uk/programmes/p01f0vzr)
 
@@ -241,7 +223,7 @@ Deutschlandfunk Kultur: Sein und Streit, [__https://www.deutschlandfunkkultur.de
 
 Drewes, Jona und Micha: Philosophie to go, [__https://podcasts.apple.com/de/podcast/philosophie-to-go/id1481239683__](https://www.bbc.co.uk/programmes/p01f0vzr)
 
-Edmonds, David/ Warburton, Nigel: Philosophy Bites, [__https://open.spotify.com/show/6UmBytzR58EY4hN1jzQG2o__](https://www.bbc.co.uk/programmes/p01f0vzr) 
+Edmonds, David/ Warburton, Nigel: Philosophy Bites, [__https://open.spotify.com/show/6UmBytzR58EY4hN1jzQG2o__](https://www.bbc.co.uk/programmes/p01f0vzr)
 
 Glöckner, Bruno/ Scheich, Jakob: Lachen und Weinen, [__https://lachenundweinen.org/podcast__](https://www.bbc.co.uk/programmes/p01f0vzr)
 
@@ -257,10 +239,10 @@ Universität Bern/ Institut für Philosophie: Hinterfragt – Der Ethik-Podcast,
 
 Ward, Amy: The Women In Parenthesis, [__https://open.spotify.com/show/1p37fcZC8JpJl4JOLnvPNU__](https://www.bbc.co.uk/programmes/p01f0vzr)
 
-West, Stephan: Philosophize This, [__https://www.philosophizethis.org__](https://www.bbc.co.uk/programmes/p01f0vzr) 
+West, Stephan: Philosophize This, [__https://www.philosophizethis.org__](https://www.bbc.co.uk/programmes/p01f0vzr)
 
 WDR5: Das Philosophische Radio mit Jürgen Wiebeke, [__https://www1.wdr.de/mediathek/audio/wdr5/wdr5-das-philosophische-radio/index.html__](https://www.bbc.co.uk/programmes/p01f0vzr)
 
 Wynn, Natalie: ContraPoints, [__https://www.youtube.com/user/contrapoints__](https://www.bbc.co.uk/programmes/p01f0vzr)
 
-ZDF: Streetphilosophy – Kultur und Pop mit Jonas Bosslet und Ronja von Rönne,[__ __](https://www.arte.tv/de/videos/RC-014424/streetphilosophy/ "https://www.arte.tv/de/videos/RC-014424/streetphilosophy/")[__https://www.arte.tv/de/videos/RC-014424/streetphilosophy/__](https://www.bbc.co.uk/programmes/p01f0vzr)
+ZDF: Streetphilosophy – Kultur und Pop mit Jonas Bosslet und Ronja von Rönne,[\_\_ \_\_](https://www.arte.tv/de/videos/RC-014424/streetphilosophy/ "https://www.arte.tv/de/videos/RC-014424/streetphilosophy/")[__https://www.arte.tv/de/videos/RC-014424/streetphilosophy/__](https://www.bbc.co.uk/programmes/p01f0vzr)
