@@ -89,7 +89,8 @@ Obwohl der performative Fokus beim Podcast vor allem auf der mündlichen Sprache
 
 * Recherche und Informationsbeschaffung: Themenfindung, Festlegung der Zielgruppe
 * Ressourcencheck (Zeitplanung, benötigtes Equipment usw.)
-* Wahl der Form:
+
+**Wahl der Form:**
 
 || **a) Gebaute Beiträge:** | **b) Gesprächsbeiträge (z.B. Meinungsgespräch):** | **c) Interviewbeiträge:** |
 |--|-------|-----------|---------|
@@ -107,7 +108,7 @@ Obwohl der performative Fokus beim Podcast vor allem auf der mündlichen Sprache
 * Begleittexte finalisieren: Teaser, Shownotes, Konzept, Quellenverzeichnis
 * (Design und Publikation)
 
-#### **Disclaimer:**
+#### Disclaimer
 
 Der Podcast ist eine eigene Form. Er ist kein aufgenommenes Referat und er ist keine eingelesene Hausarbeit.
 
@@ -191,7 +192,7 @@ Bei Unsicherheiten wendet Euch bitte an uns (Sprechstunde)
 - Präzision
 - Einheitlicher Quellennachweis
 
-#### 4. Literatur- und Podcastempfehlungen
+## 4. Literatur- und Podcastempfehlungen
 
 ### 4.1 Literaturempfehlungen
 
