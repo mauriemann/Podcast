@@ -6,7 +6,7 @@
 
 ## Grundformen und Besonderheiten philosophischer Podcasts
 
-Um die Wege nachzuzeichnen, die bei der Erstellung philosophisch akademischer Podcasts beschritten werden können, kann das breite Feld der Podcast-Landschaft zunächst auf formaler Ebene eingegrenzt und unterschieden werden. Professionell produzierte und zur Veröffentlichung bestimmte Podcasts lassen sich zunächst in zwei Grundformen von Rundfunkbeiträgen unterscheiden: Gesprächsbeiträge und gebaute Beiträge. Diese formale Unterscheidung zielt primär auf die Ebene der Produktionsbedingungen und -methoden. In Gesprächsbeiträgen – der wohl am häufigsten vertretenen Form – gibt es meist eine:n Moderator:in und eine:n Gast:in oder Gäste, die ein Gespräch führen. In aller Regel konzentriert sich dieses Gespräch auf ein einziges Thema, das diskutiert oder erörtert wird.
+Um die Wege nachzuzeichnen, die bei der Erstellung philosophisch akademischer Podcasts beschritten werden können, kann das breite Feld der Podcast-Landschaft zunächst auf formaler Ebene eingegrenzt und unterschieden werden. Professionell produzierte und zur Veröffentlichung bestimmte Podcasts lassen sich zunächst in zwei Grundformen von Rundfunkbeiträgen unterscheiden: **Gesprächsbeiträge und gebaute Beiträge**. Diese einfache Grundunterscheidung zielt primär auf die Ebene der Produktionsbedingungen und -methoden. In Gesprächsbeiträgen – der wohl am häufigsten vertretenen Form – gibt es meist eine:n Moderator:in und eine:n Gast:in oder Gäste, die ein Gespräch führen. In aller Regel konzentriert sich dieses Gespräch auf ein einziges Thema, das diskutiert oder erörtert wird.
 
 Gegenüber den Gesprächsbeiträgen stehen sogenannte gebaute Beiträge, welche die Standardeinheit des Hörfunks bilden. Diese Grundform bietet sich für eine breite Palette von Podcast-Produktionen an. Bei gebauten Beiträgen findet in der Herstellung eine ähnliche Mosaikarbeit statt, wie sie auch bei Gesprächsbeiträgen nötig ist. Der wesentliche Unterschied liegt darin, dass nicht die Aufnahme eines Gesprächs die Grundlage bildet, sondern eine Art Drehbuch, in dem alle Elemente, die sich für die Audio-Form anbieten und den Produzent:innen zur Verfügung stehen, verwendet werden können. Potenziell unterschiedlichste Inhalte werden bei der Herstellung gebauter Beiträge zu einem neuen, kohärenten Ganzen. Alle Teile und ihre Zusammenfügung dienen hier dem Ziel, eine – im weiten Sinne des Begriffs – Geschichte zu erzählen und Gedankengänge systematisch zu entfalten
 
@@ -14,21 +14,26 @@ Die Beispiele für gebaute Beiträge sind mannigfaltig: Reportagen, Rezensionen,
 
 Podcasts, die sich philosophisch nennen wollen, sind mit bestimmten Anforderungen konfrontiert, denen sich viele andere Podcasts nicht stellen müssen. Darüber hinaus bietet der philosophische Podcast gestalterische Möglichkeiten, die anderen Podcasts verschlossen bleiben – das Eigentümliche des Philosophischen birgt in Bezug auf den Podcast das Potenzial für eine spezielle Synthese von Form und Inhalt.
 
-Ein philosophischer Podcast muss sich genuin philosophisch mit einem Thema beschäftigen. In aller Regel sind diese Ideen oder philosophischen Betrachtungen textlich hinterlegt. In dieser Hinsicht ist es kein Wunder, dass eine erfolgreiche Grundform des seriellen philosophischen Podcasts sich in jeder Folge auf einen oder mehrere philosophische Texte konzentriert, die besprochen und kritisch hinterfragt werden. Als einer der weltweit am meisten gehörten Podcasts sei hier „The Partially Examined Life“ genannt.  Die Beschäftigung mit dem Gegenstand sollte in jedem Fall den Gütekriterien guter philosophischer Praxis gerecht werden.
+Ein philosophischer Podcast muss sich genuin philosophisch mit einem Thema beschäftigen. In aller Regel sind diese Ideen oder philosophischen Betrachtungen textlich hinterlegt. In dieser Hinsicht ist es kein Wunder, dass eine erfolgreiche Grundform des seriellen philosophischen Podcasts sich in jeder Folge auf einen oder mehrere philosophische Texte konzentriert, die besprochen und kritisch hinterfragt werden. Als einer der weltweit am meisten gehörten Podcasts sei hier [*The Partially Examined Life*](https://partiallyexaminedlife.com/) genannt.  Die Beschäftigung mit dem Gegenstand sollte in jedem Fall den Gütekriterien guter philosophischer Praxis gerecht werden.
 
 Diese Anforderung ernst nehmend sind nichtsdestotrotz unterschiedlichste Gestaltungsformen für philosophische Podcasts möglich. Im folgenden Abschnitt soll dieses große Feld dargestellt und verschiedene Grundformen philosophischer Podcasts mit Hinblick auf die Eignung für die Lehre im Fach Philosophie voneinander unterschieden werden.
 
 ### Ideengeschichtliche Referatspodcast
 
-In die Gruppe der ideengeschichtlichen Podcasts würden auch nicht wenige studentische Referate fallen. In der Universität gibt es durchaus Referatsformen, die diesem Format sehr ähneln.
+Studentische Referate lassen sich recht einfach in ideengeschichtliche Podcasts übersetzen und gezielt in das Programm von Lehrveranstaltungen intergrieren. Dies kann besonders dann gut gelingen, wenn das (vorgegebene oder gewählte) Thema des Podcasts etwa Zusatztexte sind, die in der Seminarplanung trotz ihrer Eignung vorerst nicht berücksichtigt werden konnten, zum Beispiel ein uübersprungenes Buchkapitel. Auch Exkurse, Sidenotes oder Autor:innenporträts, die für die eigentlichen Seminarinhalte relevant sind, können ein durch zusätzliche Perspektiven bereichern und stellen für Studierende und Lehrende eine lohnenswerte Ergänzung im Prüfungsportfolio dar.
 
-Das Format Podcast als Substitut für das herkömmliche Format von Referaten in die Lehre zu integrieren, kann besonders gut gelingen, wenn das vorgegebene Thema des Podcasts etwa Zusatztexte sind, die in der Seminarplanung trotz ihrer Eignung vorerst nicht berücksichtigt werden konnten. Auch Exkurse oder Sidenotes, für welche die eigentlichen Seminarinhalte relevant sind und die wiederum das Seminar durch zusätzliche Perspektiven bereichern, können für die Prüflinge und das Seminar lohnenswerte Wege darstellen.
+Vorbilder für ideengeschichtliche Podcasts oder Autor:innenporträts bietet das Format *Sein und Streit* im Deutschlandfunk Kultur.
+
+Exemplarisch: 
+
+1. Das Porträt von [Anton Wilhelm Amo](https://www.deutschlandfunkkultur.de/anton-wilhelm-amo-der-erste-afro-deutsche-philosoph-dlf-kultur-ea1fab23-100.html)
+2. Gespräch mit Iris Därmann und Oliver Precht über [Claude Levi-Strauss](https://www.deutschlandfunkkultur.de/zum-zehnten-todestag-von-claude-levi-strauss-das-eigene-im-100.html)
 
 ### Interview
 
-Neben ideengeschichtlichen Podcasts sind außerdem Expert:innengespräche bzw. Interviews relevante Formate, bei denen die Wissensvermittlung häufig im Mittelpunkt steht. Hier gibt es einige erfolgreiche, serielle Produktionen wie etwa „In Our Time: Philosophy“ mit Melvyn Bragg oder der Ethik-Podcast „Hinterfragt“ von Andreas Cassee und Anna Goppel an der Uni Basel. Das aufgezeichnete Gespräch ist bei dieser Form in aller Regel nicht gescripted – Interviewfragen selbstverständlich ausgenommen. Expert:innengespräche bieten viele Gestaltungsmöglichkeiten. Das Gespräch steht im Mittelpunkt, aber ob und wie es eingeleitet wird, wieviel und was man schneidet und welchen Charakter das Gespräch überhaupt hat, muss von den Produzent:innen bewusst entschieden werden. Der Aspekt der Planung ist bei dieser Form nicht zu unterschätzen. Die Produzent:innen bestimmen das Gespräch mit der Vorbereitung der Fragen und der Moderation in einem erheblichen Maße.
+Neben ideengeschichtlichen Podcasts sind außerdem Expert:innengespräche bzw. Interviews relevante Formate, bei denen die Wissensvermittlung häufig im Mittelpunkt steht. Hier gibt es einige erfolgreiche, serielle Produktionen wie etwa [*In Our Time: Philosophy*](https://www.bbc.co.uk/programmes/p01f0vzr) mit Melvyn Bragg oder der Ethik-Podcast [*Hinterfragt - Der Ethik-Podcast*](https://www.philosophie.ch/hinterfragt) von Andreas Cassee und Anna Goppel an der Uni Basel. Das aufgezeichnete Gespräch ist bei dieser Form in aller Regel nicht gescripted – Interviewfragen selbstverständlich ausgenommen. Expert:innengespräche bieten viele Gestaltungsmöglichkeiten. Das Gespräch steht im Mittelpunkt, aber ob und wie es eingeleitet wird, wieviel und was man schneidet und welchen Charakter das Gespräch überhaupt hat, muss von den Produzent:innen bewusst entschieden werden. Der Aspekt der Planung ist bei dieser Form nicht zu unterschätzen. Die Produzent:innen bestimmen das Gespräch mit der Vorbereitung der Fragen und der Moderation in einem erheblichen Maße.
 
-Das Editing nach der Aufzeichnung ist bei Interviews auf keinen Fall zu vergessen. Die Produzent:innen bemühen sich um ein straffes Gespräch, in dessen Fluss die Dramaturgie gut zum Vorschein kommt. Expert:innengespräche als Podcast würden sich in dieser Hinsicht durchaus auch als Prüfungsleistung im Fach Philosophie anbieten, auch wenn natürlich hiermit eine Form gewählt wäre, bei der der Großteil des gesprochenen Wortes *nicht* vom Prüfling beigesteuert wird.
+Das Editing nach der Aufzeichnung ist bei Interviews auf keinen Fall zu vergessen. Die Produzent:innen bemühen sich um ein straffes Gespräch, in dessen Fluss die Dramaturgie gut zum Vorschein kommt. Expert:innengespräche als Podcast würden sich in dieser Hinsicht durchaus auch als Prüfungsleistung im Fach Philosophie anbieten, auch wenn natürlich hiermit eine Form gewählt wäre, bei der ein gewichtiger Teil des gesprochenen Wortes *nicht* vom Prüfling beigesteuert wird.
 
 ### Audioessay
 
@@ -36,7 +41,7 @@ Es gibt aber auch philosophische Podcasts, bei denen die Vermittlung von bestehe
 
 Als gebauter Beitrag lädt der Audioessay nicht nur die Hörer:innen ein, einer oder mehrerer Gedankenspuren zu folgen. Er erfüllt seine inhaltlich erschließende Funktion darüber hinaus gegebenenfalls auch schon in der Herstellung, wenn die Planung des Beitrags der Reise gleicht, auf die die Hörer:innen später geschickt werden. Das Tastende des philosophischen Essays, das im Kanon der herkömmlichen akademischen Textsorten so einzigartig ist, kann sich in der Form des Podcasts auf eine besondere Weise entfalten. Der prozessuale Charakter des philosophischen Essays, so wird häufig herausgestellt, gleicht dem Gespräch. Während dieser Charakter normalerweise aber von der/dem Autor:in in Schriftform gegossen und so in ganz bestimmten Hinsichten fixiert wird, kann er in der Form des Audioessays mit der ganzen Bandbreite von Sprache, Stimme, Musik und Geräuschen spielend ausgedrückt werden. Man darf vermuten, dass das philosophische (Selbst-)Gespräch in der gesprochenen Form mehr zuhause ist als in den Glyphen eines geschriebenen Textes. Die/Der Autor:in bestimmt hier in einem ganz anderen Maße über Pausen, Intonation, Stimmung, Tempo und Betonung. Auch kann sie/er mit Musik oder Sounds auf eine völlig andere Art und Weise Landschaften erschaffen. Die Auseinandersetzung der/des Autor:in mit dem Thema behält ihre Grundfigur, das Medium wirkt sich aber nicht nur auf die Rezeption, sondern auch auf die Genese aus. Wer einen Essay im engeren Sinne des Wortes *schreibt*, vollzieht andere Denkbewegungen, als wenn sie/er den Essay immer schon als klangliches Erzeugnis konzipiert.
 
-Konkrete Regeln lassen sich für diese Form des Essays schlecht festmachen. Das Spielen mit der Form gehört durchaus zum genuin Essayistischen dazu. Spuren kann nachgegangen werden, und auch, wenn man nicht weiterkommt und gedanklich zurückgegangen werden muss, um einen anderen Pfad einzuschlagen, kann der vermeintliche Umweg gewinnbringend sein. Ganz im Sinne der Zetetik als forschend-fragender Methode der Philosophie dürfen auch im Umgang mit anderen Medien als Schrift und Text die Bande zwischen Form und Inhalt immer wieder aufgebrochen und neu geknüpft werden.
+Konkrete Regeln lassen sich für diese Form des Essays schlecht festmachen. Das Spiel mit der Form gehört durchaus zum genuin Essayistischen dazu. Spuren kann nachgegangen werden, und auch, wenn man nicht weiterkommt und gedanklich zurückgegangen werden muss, um einen anderen Pfad einzuschlagen, kann der vermeintliche Umweg gewinnbringend sein. Ganz im Sinne der Zetetik als forschend-fragender Methode der Philosophie dürfen auch im Umgang mit anderen Medien als Schrift und Text die Bande zwischen Form und Inhalt immer wieder aufgebrochen und neu geknüpft werden.
 
 So gut wie alle Podcasts weisen mehrere der hier erläuterten Charaktermerkmale auf. Selbstverständlich vermitteln auch Audioessays notwendigerweise Wissen und die meisten begriffsgeschichtlichen Untersuchungen kommen nicht umhin, in ihrer jeweiligen Gestaltung essayistische, fragende Formen hervorzubringen. 
 
@@ -171,7 +176,10 @@ Bei Unsicherheiten wendet Euch bitte an uns (Sprechstunde)
 - Er muss als eine zusammenhängende Audiodatei im .mp3-Format eingereicht werden (z.B. über einen Cloudordner)
 - Kommentierte Power-Point-Folien im Webinar-Stil sind nicht angemessen
 - Bewertet wird die gemeinsame Leistung der Gruppe, nicht die der einzelnen Personen
-- Drei Dokumente sind beizufügen: 1. Eine kurze inhaltliche Zusammenfassung ("Teaser" 1-2 Seiten) 2. Ein Selbstverständigungstext zur Gestaltung des Podcasts (Vorlage bzw. 1-2 Seiten) 3. Ein Literaturverzeichnis
+- Drei Dokumente sind beizufügen: 
+    1. Eine kurze inhaltliche Zusammenfassung ("Teaser" 1-2 Seiten) 
+    2. Ein Selbstverständigungstext zur Gestaltung des Podcasts (Vorlage bzw. 1-2 Seiten) 
+    3. Ein Literaturverzeichnis
 - Jede Gruppe muss ihre Idee in einer Einzelsprechstunde vorbesprechen
 - Es besteht die Möglichkeit der Online-Publikation im Lernmaterial
 
@@ -263,34 +271,34 @@ Wiesing, Lambert (2008): Was ist Medienphilosophie? Information Philosophie. Hef
 
 ### 4.2 Podcastempfehlungen
 
-BBC: In Our Time with Melvyn Bragg, [__https://www.bbc.co.uk/programmes/p01f0vzr__](https://www.bbc.co.uk/programmes/p01f0vzr)
+BBC: [In Our Time with Melvyn Bragg](https://www.bbc.co.uk/programmes/p01f0vzr)
 
-Buckle, Toby: Political Philosophy Podcast, [__https://www.politicalphilosophypodcast.com/about__](https://www.bbc.co.uk/programmes/p01f0vzr)
+Buckle, Toby: [Political Philosophy Podcast](https://www.politicalphilosophypodcast.com)
 
-Deutschlandfunk Kultur: Sein und Streit, [__https://www.deutschlandfunkkultur.de/philosophie-104.html__](https://www.bbc.co.uk/programmes/p01f0vzr)
+Deutschlandfunk Kultur: [Sein und Streit](https://www.deutschlandfunkkultur.de/philosophie-104.html)
 
-Drewes, Jona und Micha: Philosophie to go, [__https://podcasts.apple.com/de/podcast/philosophie-to-go/id1481239683__](https://www.bbc.co.uk/programmes/p01f0vzr)
+Drewes, Jona und Micha: [Philosophie to go](https://philosophie-to-go.podigee.io/)
 
-Edmonds, David/ Warburton, Nigel: Philosophy Bites, [__https://open.spotify.com/show/6UmBytzR58EY4hN1jzQG2o__](https://www.bbc.co.uk/programmes/p01f0vzr)
+Edmonds, David/ Warburton, Nigel: [Philosophy Bites](http://www.philosophybites.co.uk/)
 
-Glöckner, Bruno/ Scheich, Jakob: Lachen und Weinen, [__https://lachenundweinen.org/podcast__](https://www.bbc.co.uk/programmes/p01f0vzr)
+Glöckner, Bruno/ Scheich, Jakob: [Lachen und Weinen](https://lachenundweinen.org/podcast)
 
-Hirn, Liza: Philosophieren mit Hirn, [__https://www.ohwow.eu/podcasts__](https://www.bbc.co.uk/programmes/p01f0vzr)
+Hirn, Liza: [Philosophieren mit Hirn](https://www.ohwow.eu/podcasts)
 
-Kraemer, Florian: Durchblick Philosophie, [__https://durchblick-philosophie.de/ueber-diesen-podcast/__](https://www.bbc.co.uk/programmes/p01f0vzr)
+Kraemer, Florian: [Durchblick Philosophie](https://durchblick-philosophie.de/ueber-diesen-podcast/)
 
-Philosophie.ch: Philosophiehäppchen für zwischendurch, [__https://www.philosophie.ch/podcasts-philosophiehaeppchen-fuer-zwischendurch__](https://www.bbc.co.uk/programmes/p01f0vzr)
+Philosophie.ch: [Philosophiehäppchen für zwischendurch](https://www.philosophie.ch/podcasts-philosophiehaeppchen-fuer-zwischendurch)
 
-Thorn, Abigail: Philosophy Tube, [__https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ__](https://www.bbc.co.uk/programmes/p01f0vzr)
+Thorn, Abigail: [Philosophy Tube](https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ)
 
-Universität Bern/ Institut für Philosophie: Hinterfragt – Der Ethik-Podcast, [__https://www.philosophie.unibe.ch/ueber_uns/aktuell/podcast/index_ger.html__](https://www.bbc.co.uk/programmes/p01f0vzr)
+Universität Bern/ Institut für Philosophie: [Hinterfragt – Der Ethik-Podcast](https://www.philosophie.unibe.ch/ueber_uns/aktuell/podcast/index_ger.html)
 
-Ward, Amy: The Women In Parenthesis, [__https://open.spotify.com/show/1p37fcZC8JpJl4JOLnvPNU__](https://www.bbc.co.uk/programmes/p01f0vzr)
+Ward, Amy: [The Women In Parenthesis Podcast](https://www.womeninparenthesis.co.uk/resources/the-women-in-parenthesis-podcast/)
 
-West, Stephan: Philosophize This, [__https://www.philosophizethis.org__](https://www.bbc.co.uk/programmes/p01f0vzr)
+West, Stephan: [Philosophize This](https://www.philosophizethis.org)
 
-WDR5: Das Philosophische Radio mit Jürgen Wiebeke, [__https://www1.wdr.de/mediathek/audio/wdr5/wdr5-das-philosophische-radio/index.html__](https://www.bbc.co.uk/programmes/p01f0vzr)
+WDR5: [Das Philosophische Radio mit Jürgen Wiebeke](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-das-philosophische-radio/index.html)
 
-Wynn, Natalie: ContraPoints, [__https://www.youtube.com/user/contrapoints__](https://www.bbc.co.uk/programmes/p01f0vzr)
+Wynn, Natalie: [ContraPoints](https://www.youtube.com/user/contrapoints)
 
-ZDF: Streetphilosophy – Kultur und Pop mit Jonas Bosslet und Ronja von Rönne,[\_\_ \_\_](https://www.arte.tv/de/videos/RC-014424/streetphilosophy/ "https://www.arte.tv/de/videos/RC-014424/streetphilosophy/")[__https://www.arte.tv/de/videos/RC-014424/streetphilosophy/__](https://www.bbc.co.uk/programmes/p01f0vzr)
+ZDF/arte: [Streetphilosophy – Kultur und Pop mit Jonas Bosslet und Ronja von Rönne](https://www.arte.tv/de/videos/RC-014424/streetphilosophy/)
