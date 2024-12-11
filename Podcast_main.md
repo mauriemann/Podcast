@@ -6,7 +6,11 @@
 
 ## Grundformen und Besonderheiten philosophischer Podcasts
 
-Um die Wege nachzuzeichnen, die bei der Erstellung philosophisch akademischer Podcasts beschritten werden können, kann das breite Feld der Podcast-Landschaft zunächst auf formaler Ebene eingegrenzt und unterschieden werden. Professionell produzierte und zur Veröffentlichung bestimmte Podcasts lassen sich zunächst in zwei Grundformen von Rundfunkbeiträgen unterscheiden: **Gesprächsbeiträge und gebaute Beiträge**. Diese einfache Grundunterscheidung zielt primär auf die Ebene der Produktionsbedingungen und -methoden. In Gesprächsbeiträgen – der wohl am häufigsten vertretenen Form – gibt es meist eine:n Moderator:in und eine:n Gast:in oder Gäste, die ein Gespräch führen. In aller Regel konzentriert sich dieses Gespräch auf ein einziges Thema, das diskutiert oder erörtert wird.
+Um die Wege nachzuzeichnen, die bei der Erstellung philosophisch akademischer Podcasts beschritten werden können, kann das breite Feld der Podcast-Landschaft zunächst auf formaler Ebene eingegrenzt und unterschieden werden. Professionell produzierte und zur Veröffentlichung bestimmte Podcasts lassen sich zunächst in zwei Grundformen von Rundfunkbeiträgen unterscheiden: 
+
+**Gesprächsbeiträge und gebaute Beiträge** 
+
+Diese einfache Grundunterscheidung zielt primär auf die Ebene der Produktionsbedingungen und -methoden. In Gesprächsbeiträgen – der wohl am häufigsten vertretenen Form – gibt es meist eine:n Moderator:in und eine:n Gast:in oder Gäste, die ein Gespräch führen. In aller Regel konzentriert sich dieses Gespräch auf ein einziges Thema, das diskutiert oder erörtert wird.
 
 Gegenüber den Gesprächsbeiträgen stehen sogenannte gebaute Beiträge, welche die Standardeinheit des Hörfunks bilden. Diese Grundform bietet sich für eine breite Palette von Podcast-Produktionen an. Bei gebauten Beiträgen findet in der Herstellung eine ähnliche Mosaikarbeit statt, wie sie auch bei Gesprächsbeiträgen nötig ist. Der wesentliche Unterschied liegt darin, dass nicht die Aufnahme eines Gesprächs die Grundlage bildet, sondern eine Art Drehbuch, in dem alle Elemente, die sich für die Audio-Form anbieten und den Produzent:innen zur Verfügung stehen, verwendet werden können. Potenziell unterschiedlichste Inhalte werden bei der Herstellung gebauter Beiträge zu einem neuen, kohärenten Ganzen. Alle Teile und ihre Zusammenfügung dienen hier dem Ziel, eine – im weiten Sinne des Begriffs – Geschichte zu erzählen und Gedankengänge systematisch zu entfalten
 
@@ -248,6 +252,22 @@ Bei Unsicherheiten wendet Euch bitte an uns (Sprechstunde)
 - Angemessener Umfang
 - Präzision
 - Einheitlicher Quellennachweis
+
+## Schlussbemerkungen
+
+Die öffentliche Popularität von Podcasts steigert das akademische Interesse am Medium, nicht zuletzt deshalb, weil wissenschaftliche Podcasts aufgrund ihrer Potenz des akademischen Transfers und der Wissenschaftskommunikation eine besonders attraktive Schnittstelle zwischen Universität und Öffentlichkeit bilden. Bereits etablierte philosophische Podcastformate rücken die Frage nach Möglichkeiten des universitären Einsatzes des Mediums für ein zeitgenössisches Philosophieren zusätzlich in den Fokus, denn philosophische Podcasts erlauben zudem aufgrund ihrer gestalterischer Möglichkeiten eine besondere Synthese von Inhalt und Form.
+
+Der vorliegende Leitfaden hatte es sich zur Aufgabe gemacht, die Fülle an Gestaltungs- und Einsatzmöglichkeiten als Lehr- und als Lernmedium zu entdecken, zu analysieren sowie zu erproben. Die im Zuge des Projektseminars gesammelten Erkenntnisse legen nahe, dass sich die Integration des Mediums in die Lehre lohnt.
+
+Zum einen können Podcasts als ein Lehr- sowie Präsentationsmedium in die Lehre eingesetzt werden. Dabei bieten sie den Lehrenden die Möglichkeit, Seminarinhalte außerhalb der Präsenzveranstaltung auditiv oder audiovisuell zur Verfügung zu stellen.
+
+Zum anderen erweist sich der Einsatz von Podcast durch Studierende als äußerst geeignet für Lehrprojekte und Prüfungsformate. Dabei bieten sich insbesondere drei Varianten an: das eingesprochene Referat, wie etwa über ein im Seminar nicht gelesenes Buchkapitel, der „Helikopterbeitrag“ über das Seminarthema, der zu Beginn des Semesters an eine Gruppe vergeben wird, und der über die vorlesungsfreie Zeit entwickelte Audioessay. Letzterer eignet sich besonders gut für die eigenständige Entwicklung philosophischer Gedanken und stellt in den Augen der Verfasser:in eine wertvolle Orientierung für Prüfungsleistungen dar.
+
+Zwar bedeutet der Einsatz von Podcasts, insbesondere am Anfang, einen erheblichen Mehraufwand für Lehrende und Studierende – sei es durch das Erlernen technischer und redaktioneller Fähigkeiten – jedoch zahlt sich dieser Aufwand durch die erworbenen Kompetenzen und die erweiterte Perspektive auf die Philosophie aus. So stellt der Einsatz von Podcasts nicht nur eine innovative Methode dar, sondern auch eine bereichernde Erfahrung für alle Beteiligten.
+
+Die Nutzung von Podcasts als Lehr-, Lern- und Prüfungsform bietet vielfältige Möglichkeiten, Lehrveranstaltungen zeitgemäß zu gestalten. Während digitale Lehre oft Audiovorlesungen und Web-Seminare nutzt, stellt sich in der Präsenzlehre die Herausforderung, Podcasts unterstützend einzubinden. Im philosophischen Seminar können Podcasts als Lehr- und Präsentationsform, Untersuchungsgegenstand oder studentische Projektarbeit genutzt werden. Sie betonen das Sprechen der Philosophie und erinnern an deren dialogischen Charakter. Die Erstellung studentischer Podcasts fördert wissenschaftliche Kommunikation, Medienarbeit, außerakademisches Philosophieren und essayistisches Arbeiten jenseits des geschriebenen Textes.
+
+Um den Anforderungen an eine akademische und wissenschaftliche Prüfungsleistung gerecht zu werden, müssen studentische Audiobeiträge von schriftlichen Begleitdokumenten begleitet werden. Diese sollten mindestens ein Deckblatt, ein Literaturverzeichnis und eine Eigenständigkeitserklärung umfassen. Zusätzlich sind eine kurze inhaltliche Zusammenfassung (Abstract oder Teaser) sowie Shownotes als sinnvolle Ergänzungen zu empfehlen.
 
 ## 4. Literatur- und Podcastempfehlungen
 
